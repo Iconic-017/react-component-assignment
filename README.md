@@ -102,7 +102,7 @@ A feature-rich data table with sorting, selection, and responsive design.
 
 ### 1. Clone and Install
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Iconic-017/react-component-assignment.git
 cd UDS_assignment
 npm install
 ```
