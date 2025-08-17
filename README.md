@@ -134,8 +134,8 @@ npm run lint          # Run ESLint
 
 ## 🎯 Demo & Preview
 
-- **GitHub Repository**: [Your Repo Link](https://github.com/Iconic-017/react-component-assignment)
-- **Storybook**: [Chromatic/Vercel Deployment](https://68a188882a39175efb33e9a0-mjiqxskkva.chromatic.com/)
+- **GitHub Repository**: [Repo Link](https://github.com/Iconic-017/react-component-assignment)
+- **Storybook**: [Chromatic Deployment](https://68a188882a39175efb33e9a0-mjiqxskkva.chromatic.com/)
 
 ## 💡 Design Approach
 
