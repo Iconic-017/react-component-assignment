@@ -43,6 +43,10 @@ A versatile, accessible input component with multiple variants and states.
 - **States**: Default, Focused, Invalid, Disabled
 - **Special Features**: Password toggle, Clearable input
 
+#### 📸 Screenshot
+![InputField Screenshot](./Screenshot/Inputfiled.png)
+
+
 ### 📊 DataTable Component
 
 A feature-rich data table with sorting, selection, and responsive design.
@@ -76,6 +80,9 @@ A feature-rich data table with sorting, selection, and responsive design.
   sortable?: boolean
 }
 ```
+
+#### 📸 Screenshot
+![DataTable Screenshot](./Screenshot/DataTable.png)
 
 ## 🛠️ Tech Stack
 
@@ -127,9 +134,8 @@ npm run lint          # Run ESLint
 
 ## 🎯 Demo & Preview
 
-- **GitHub Repository**: [Your Repo Link](https://github.com/yourusername/UDS_assignment)
-- **Live Demo**: [Deployed App Link](https://your-app.vercel.app)
-- **Storybook**: [Chromatic/Vercel Deployment](https://your-storybook.vercel.app)
+- **GitHub Repository**: [Your Repo Link](https://github.com/Iconic-017/react-component-assignment)
+- **Storybook**: [Chromatic/Vercel Deployment](https://68a188882a39175efb33e9a0-mjiqxskkva.chromatic.com/)
 
 ## 💡 Design Approach
 
